@@ -1,0 +1,339 @@
+<title>Metanair Cockpit</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+  /* Layout: one column cockpit, phone first; decisions on top, progress and evidence below. */
+  :root {
+    --bg: #f3f4f1;
+    --surface: #ffffff;
+    --ink: #17201c;
+    --muted: #5d6862;
+    --line: #dde2dc;
+    --signal: #c9620a;       /* waits on Cem */
+    --signal-soft: #fbeedd;
+    --go: #1f7a4d;
+    --go-soft: #e2f2e8;
+    --stop: #b3261e;
+    --stop-soft: #f9e3e1;
+    --track: #e7ebe6;
+    --f-display: "Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+    --f-body: "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --f-data: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #111614; --surface: #1a211e; --ink: #e9eeea; --muted: #9aa69f; --line: #2c3631;
+      --signal: #f0953e; --signal-soft: #3a2614; --go: #5cc58f; --go-soft: #16301f;
+      --stop: #f08a82; --stop-soft: #3b1a17; --track: #26302b; color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #111614; --surface: #1a211e; --ink: #e9eeea; --muted: #9aa69f; --line: #2c3631;
+    --signal: #f0953e; --signal-soft: #3a2614; --go: #5cc58f; --go-soft: #16301f;
+    --stop: #f08a82; --stop-soft: #3b1a17; --track: #26302b; color-scheme: dark;
+  }
+  body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.5; }
+  .wrap { max-width: 44rem; margin-inline: auto; padding-block: 20px 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 28px; }
+  h1, h2 { font-family: var(--f-display); font-weight: 700; margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+  h1 { font-size: 1.9rem; line-height: 1.1; }
+  h2 { font-size: 1.15rem; }
+  .eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+  .sub { color: var(--muted); margin: 6px 0 0; }
+  .num { font-family: var(--f-data); font-variant-numeric: tabular-nums; }
+
+  /* header progress */
+  .head { display: grid; gap: 14px; }
+  .score { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .score .big { font-family: var(--f-display); font-size: 2.6rem; font-weight: 700; line-height: 1; }
+  .score .of { color: var(--muted); }
+  .bar { display: flex; height: 10px; border-radius: 6px; overflow: hidden; background: var(--track); gap: 2px; }
+  .bar span { display: block; height: 100%; }
+  .waitpill { display: inline-flex; align-items: center; gap: 6px; background: var(--signal-soft); color: var(--signal); font-weight: 600; border-radius: 999px; padding: 3px 12px; font-size: 0.9rem; }
+  .waitpill.zero { background: var(--go-soft); color: var(--go); }
+
+  /* decision cards */
+  .stack { display: grid; gap: 12px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px; display: grid; gap: 10px; min-width: 0; }
+  .card.decide { border-left: 4px solid var(--signal); }
+  .card.asked { border-left: 4px solid var(--muted); }
+  .card h3 { margin: 0; font-size: 1.02rem; font-weight: 600; line-height: 1.35; }
+  .card p { margin: 0; color: var(--muted); font-size: 0.93rem; white-space: pre-line; }
+  .card.prep { border-left: 4px solid var(--line); }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  button { font: inherit; font-weight: 600; border-radius: 10px; padding: 10px 16px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; min-height: 44px; }
+  button:focus-visible, textarea:focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; }
+  button.yes { background: var(--go); border-color: var(--go); color: #fff; }
+  button.no { color: var(--stop); border-color: var(--stop); }
+  button.ask { color: var(--ink); }
+  button:disabled { opacity: 0.55; cursor: default; }
+  textarea { font: inherit; width: 100%; box-sizing: border-box; min-height: 72px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); padding: 10px; resize: vertical; }
+  .note { font-size: 0.85rem; color: var(--muted); }
+  .note.ok { color: var(--go); }
+  .note.err { color: var(--stop); }
+  .chip { display: inline-block; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+  .empty { background: var(--go-soft); color: var(--go); border-radius: 14px; padding: 16px; font-weight: 600; }
+
+  /* progress per stream */
+  .streams { display: grid; gap: 12px; }
+  .stream { display: grid; grid-template-columns: 6.5rem 1fr 3.2rem; gap: 10px; align-items: center; }
+  .stream .lbl { font-weight: 600; font-size: 0.92rem; }
+  .stream .cnt { text-align: right; color: var(--muted); font-size: 0.85rem; }
+  .legend { display: flex; gap: 14px; font-size: 0.8rem; color: var(--muted); flex-wrap: wrap; }
+  .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 5px; vertical-align: -1px; }
+
+  /* activity */
+  .acthead { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+  .nextpill { font-size: 0.82rem; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px; background: var(--surface); }
+  .log { list-style: none; margin: 0; padding: 0; display: grid; }
+  .log li { display: grid; grid-template-columns: 4.6rem 1fr; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line); }
+  .log li:first-child { border-top: 0; }
+  .log time { font-family: var(--f-data); font-size: 0.78rem; color: var(--muted); padding-top: 2px; }
+  .log b { font-weight: 600; display: block; }
+  .log span { color: var(--muted); font-size: 0.9rem; }
+
+  /* plan list */
+  details { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+  summary { cursor: pointer; padding: 12px 14px; font-weight: 600; list-style: none; display: grid; grid-template-columns: 1fr auto 1rem; gap: 10px; align-items: center; }
+  summary::after { text-align: right; }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; color: var(--muted); }
+  details[open] summary::after { content: "–"; }
+  .tasks { list-style: none; margin: 0; padding: 0 14px 12px; display: grid; gap: 8px; }
+  .tasks li { display: grid; grid-template-columns: 1.4rem 1fr; gap: 6px; font-size: 0.92rem; }
+  .tasks .dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--line); margin-top: 4px; }
+  .tasks .dot.Klaar { background: var(--go); border-color: var(--go); }
+  .tasks .dot.Bezig { background: var(--signal); border-color: var(--signal); }
+  .tasks .ev { display: block; font-size: 0.8rem; color: var(--muted); }
+
+  .banner { border-radius: 12px; padding: 12px 14px; background: var(--signal-soft); color: var(--ink); font-size: 0.92rem; }
+  .foot { color: var(--muted); font-size: 0.8rem; }
+  .skel { background: var(--track); border-radius: 8px; height: 18px; }
+  @media (prefers-reduced-motion: no-preference) { .card { transition: opacity 200ms ease; } }
+</style>
+
+<main class="wrap">
+  <header class="head">
+    <div>
+      <div class="eyebrow">Minionair 2.0 · long horizon task</div>
+      <h1>Metanair Cockpit</h1>
+    </div>
+    <div class="score">
+      <span class="big num" id="doneN">–</span><span class="of">van <span class="num" id="allN">–</span> taken klaar</span>
+      <span class="waitpill" id="waitPill">laden…</span>
+    </div>
+    <div class="bar" id="bigBar" aria-hidden="true"></div>
+  </header>
+
+  <div class="banner" id="banner" hidden></div>
+
+  <section aria-labelledby="h-wait" class="stack">
+    <div>
+      <h2 id="h-wait">Wacht op jou</h2>
+      <p class="sub">Tik je besluit. Het wordt meteen bewaard en ik pak het in mijn volgende sessie op. Bij Vraag typ je wat je wilt weten.</p>
+    </div>
+    <div class="stack" id="decisions"><div class="card"><div class="skel"></div><div class="skel" style="width:70%"></div></div></div>
+  </section>
+
+  <section aria-labelledby="h-prog" class="stack">
+    <h2 id="h-prog">Voortgang per werkstroom</h2>
+    <div class="streams" id="streams"><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
+    <div class="legend"><span><i style="background:var(--go)"></i>Klaar</span><span><i style="background:var(--signal)"></i>Bezig</span><span><i style="background:var(--track)"></i>Open</span></div>
+  </section>
+
+  <section aria-labelledby="h-act" class="stack">
+    <div class="acthead">
+      <h2 id="h-act">Wat ik doe</h2>
+      <span class="nextpill" id="nextRun">volgende beurt: –</span>
+    </div>
+    <ol class="log" id="log"><li><div class="skel"></div></li></ol>
+  </section>
+
+  <section aria-labelledby="h-plan" class="stack">
+    <h2 id="h-plan">Werkplan</h2>
+    <div class="stack" id="plan"></div>
+  </section>
+
+  <p class="foot" id="foot">Live uit Notion, database "Metanair — taken". Het voorstel staat in je doc "Minionair 2.0 — architectuuranalyse en voorstel".</p>
+</main>
+
+<script>
+(() => {
+  const SERVER = 'Notion';
+  const DS = 'collection://8ce639ab-8931-4a06-8c47-d0c9dd13f83d';
+  const QUERY = {data: {mode: 'sql', data_source_urls: [DS], query:
+    'SELECT url, "Volgorde" AS volgorde, "Taak" AS taak, "Werkstroom" AS werkstroom, "Status" AS status, ' +
+    '"date:Klaar op:start" AS klaar_op, "Bewijs" AS bewijs, "Toelichting" AS toelichting, ' +
+    '"Besluit Cem" AS besluit, "Antwoord Cem" AS antwoord FROM "' + DS + '" ORDER BY "Volgorde"'}};
+  const STREAMS = ['Opleiding', 'Analyse', 'Voorstel'];
+  const $ = (id) => document.getElementById(id);
+  const keyOf = (v) => 't' + String(v).replace('.', '_');
+  let dbRows = [], liveRows = null, decided = {}, syncedAt = null, liveAt = null;
+  let db = null, mcp = null, logRows = [], nextAt = null;
+  const drafts = {}, pending = {};
+
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const showBanner = (msg) => { const b = $('banner'); b.textContent = msg; b.hidden = !msg; };
+  const fmtTime = (ms) => new Intl.DateTimeFormat('nl-NL', {weekday: 'short', hour: '2-digit', minute: '2-digit'}).format(new Date(ms));
+
+  // Merge: live Notion rows when available, else the copy Claude syncs; decisions from the page always apply on top.
+  function currentRows() {
+    const base = (liveRows || dbRows).map((r) => ({...r}));
+    base.forEach((r) => {
+      const d = decided[keyOf(r.volgorde)];
+      if (d && !r.besluit) { r.besluit = d.besluit; r.antwoord = d.antwoord; if (d.besluit !== 'Vraag') r.status = 'Klaar'; }
+    });
+    return base.sort((a, b) => Number(a.volgorde) - Number(b.volgorde));
+  }
+
+  function render() {
+    const rows = currentRows();
+    const done = rows.filter((r) => r.status === 'Klaar').length;
+    $('doneN').textContent = rows.length ? String(done) : '–';
+    $('allN').textContent = rows.length ? String(rows.length) : '–';
+    const open = rows.filter((r) => r.werkstroom === 'Jouw beslissing' && r.status === 'Open' && r.besluit !== 'Vraag');
+    const prep = rows.filter((r) => r.werkstroom === 'Jouw beslissing' && r.status === 'Bezig' && r.besluit !== 'Vraag');
+    const pill = $('waitPill');
+    pill.textContent = !rows.length ? 'laden…' : open.length ? `${open.length} wacht op jou` : 'Niets wacht op jou';
+    pill.classList.toggle('zero', rows.length > 0 && open.length === 0);
+
+    const bar = $('bigBar'); bar.replaceChildren();
+    const total = rows.length || 1;
+    [['Klaar', 'var(--go)'], ['Bezig', 'var(--signal)']].forEach(([s, c]) => {
+      const n = rows.filter((r) => r.status === s).length;
+      if (n) { const sp = el('span'); sp.style.width = (n / total * 100) + '%'; sp.style.background = c; bar.append(sp); }
+    });
+
+    const box = $('decisions'); box.replaceChildren();
+    if (rows.length) {
+      const asked = rows.filter((r) => r.werkstroom === 'Jouw beslissing' && r.status !== 'Klaar' && r.besluit === 'Vraag');
+      if (!open.length && !asked.length && !prep.length) box.append(el('div', 'empty', 'Alles beslist. Ik ga door met de analyse.'));
+      open.forEach((r) => box.append(decisionCard(r)));
+      prep.forEach((r) => { const c = el('div', 'card prep'); c.append(el('span', 'chip', 'Ik bereid dit voor'), el('h3', null, r.taak)); if (r.toelichting) c.append(el('p', null, r.toelichting)); box.append(c); });
+      asked.forEach((r) => {
+        const c = el('div', 'card asked');
+        c.append(el('span', 'chip', 'Jouw vraag staat uit'), el('h3', null, r.taak));
+        if (r.antwoord) c.append(el('p', null, '“' + r.antwoord + '”'));
+        c.append(el('p', 'note', 'Ik beantwoord dit in mijn volgende sessie.'));
+        box.append(c);
+      });
+    } else {
+      const c = el('div', 'card'); c.append(el('div', 'skel'), el('div', 'skel')); box.append(c);
+    }
+
+    const st = $('streams'); st.replaceChildren();
+    STREAMS.forEach((w) => {
+      const r = rows.filter((x) => x.werkstroom === w);
+      const k = r.filter((x) => x.status === 'Klaar').length, b = r.filter((x) => x.status === 'Bezig').length;
+      const line = el('div', 'stream');
+      line.append(el('span', 'lbl', w));
+      const sb = el('div', 'bar');
+      if (k) { const s = el('span'); s.style.width = (k / (r.length || 1) * 100) + '%'; s.style.background = 'var(--go)'; sb.append(s); }
+      if (b) { const s = el('span'); s.style.width = (b / (r.length || 1) * 100) + '%'; s.style.background = 'var(--signal)'; sb.append(s); }
+      line.append(sb, el('span', 'cnt num', r.length ? `${k}/${r.length}` : '–'));
+      st.append(line);
+    });
+
+    const plan = $('plan'); plan.replaceChildren();
+    STREAMS.concat(['Jouw beslissing']).forEach((w) => {
+      const r = rows.filter((x) => x.werkstroom === w);
+      if (!r.length) return;
+      const d = el('details'); const s = el('summary');
+      s.append(el('span', null, w), el('span', 'num note', `${r.filter((x) => x.status === 'Klaar').length}/${r.length}`));
+      d.append(s);
+      const ul = el('ul', 'tasks');
+      r.forEach((t) => {
+        const li = el('li'); li.append(el('span', 'dot ' + (t.status || 'Open')));
+        const txt = el('span', null, t.taak);
+        if (t.bewijs) txt.append(el('span', 'ev', t.bewijs));
+        li.append(txt); ul.append(li);
+      });
+      d.append(ul); plan.append(d);
+    });
+
+    const lg = $('log'); lg.replaceChildren();
+    logRows.slice(0, 6).forEach((x) => {
+      const li = el('li');
+      li.append(el('time', null, x.at ? fmtTime(Date.parse(x.at)) : ''));
+      const t = el('div'); t.append(el('b', null, x.titel || '')); if (x.tekst) t.append(el('span', null, x.tekst));
+      li.append(t); lg.append(li);
+    });
+    if (!logRows.length) { const li = el('li'); li.append(el('time', null, ''), el('span', null, 'Nog geen activiteit geladen.')); lg.append(li); }
+    $('nextRun').textContent = nextAt ? 'volgende beurt: ' + fmtTime(nextAt) : 'volgende beurt: –';
+
+    const parts = [];
+    if (liveRows && liveAt) parts.push('Live uit Notion, ' + fmtTime(liveAt));
+    else if (syncedAt) parts.push('Laatst bijgewerkt door Claude: ' + fmtTime(syncedAt));
+    parts.push('Het voorstel staat in je doc "Minionair 2.0 — architectuuranalyse en voorstel".');
+    $('foot').textContent = parts.join(' · ');
+  }
+
+  function decisionCard(r) {
+    const c = el('div', 'card decide');
+    c.append(el('h3', null, r.taak));
+    if (r.toelichting) c.append(el('p', null, r.toelichting));
+    const ta = el('textarea'); ta.id = 'ta-' + keyOf(r.volgorde); ta.placeholder = 'Je vraag of aanpassing';
+    ta.value = drafts[r.volgorde] || ''; ta.addEventListener('input', () => { drafts[r.volgorde] = ta.value; });
+    const acts = el('div', 'actions');
+    const yes = el('button', 'yes', 'Akkoord'), no = el('button', 'no', 'Nee'), ask = el('button', 'ask', 'Vraag');
+    acts.append(yes, no, ask);
+    ta.hidden = !ta.value;
+    const note = el('div', 'note');
+    const state = pending[r.volgorde];
+    if (state === 'saving') { note.textContent = 'Opslaan…'; [yes, no, ask].forEach((b) => b.disabled = true); }
+    else if (state && state !== 'saved') { note.textContent = state; note.className = 'note err'; }
+    if (!db) { [yes, no, ask].forEach((b) => b.disabled = true); note.textContent = 'Beslissen kan zodra de pagina verbonden is.'; }
+    const go = (besluit) => decide(r, besluit, ta.value.trim());
+    yes.addEventListener('click', () => go('Akkoord'));
+    no.addEventListener('click', () => go('Nee'));
+    ask.addEventListener('click', () => { if (!ta.value.trim()) { ta.hidden = false; ta.placeholder = 'Je vraag of aanpassing'; ta.focus(); ask.textContent = 'Verstuur vraag'; return; } go('Vraag'); });
+    c.append(acts, ta, note);
+    return c;
+  }
+
+  async function decide(r, besluit, tekst) {
+    if (!db) return;
+    pending[r.volgorde] = 'saving'; render();
+    try {
+      await db.collection('besluiten').doc(keyOf(r.volgorde)).set({volgorde: Number(r.volgorde), taak: r.taak, url: r.url || '', besluit, antwoord: tekst, at: new Date().toISOString(), naarNotion: false});
+      pending[r.volgorde] = 'saved'; delete drafts[r.volgorde];
+      render();
+    } catch (e) {
+      pending[r.volgorde] = (e && e.code) === 'quota_exceeded' ? 'Opslag vol. Laat het Claude weten.' : 'Niet opgeslagen. Probeer het nog eens.';
+      render();
+      return;
+    }
+    // Best effort: also write straight to Notion where this view allows it.
+    if (mcp && r.url) {
+      const props = {'Besluit Cem': besluit, 'Antwoord Cem': tekst};
+      if (besluit !== 'Vraag') { props['Status'] = 'Klaar'; props['date:Klaar op:start'] = new Date().toISOString().slice(0, 10); props['date:Klaar op:is_datetime'] = 0; props['Bewijs'] = 'Cem via cockpit: ' + besluit + (tekst ? ' — ' + tekst : ''); }
+      try {
+        await mcp.callTool(SERVER, 'notion-update-page', {page_id: r.url, command: 'update_properties', properties: props});
+        db.collection('besluiten').doc(keyOf(r.volgorde)).update({naarNotion: true}).catch(() => {});
+        mcp.invalidate(SERVER, 'notion-query-data-sources').catch(() => {});
+      } catch (e) { /* the saved decision stays; Claude moves it to Notion */ }
+    }
+  }
+
+  function onLive(ev) {
+    if (ev.type !== 'data') return; // the synced copy stays on screen when Notion can't be reached here
+    const p = ev.result && ev.result.payload;
+    const list = p && Array.isArray(p.results) ? p.results : null;
+    if (list) { liveRows = list; liveAt = (ev.result.cache && ev.result.cache.storedAt) || Date.now(); render(); }
+  }
+
+  render();
+  const use = window.claude && window.claude.use ? window.claude.use.bind(window.claude) : null;
+  if (!use) { showBanner('Open deze pagina in Claude om je taken te zien en te beslissen.'); return; }
+  use('db').then((d) => {
+    if (!d) { showBanner('Deze weergave kan de cockpit-opslag niet openen. Open de pagina in de Claude-app of op claude.ai.'); return; }
+    db = d;
+    d.collection('taken').onSnapshot((snap) => { dbRows = snap.docs.map((x) => x.data()); render(); }, () => {});
+    d.collection('besluiten').onSnapshot((snap) => { decided = {}; snap.docs.forEach((x) => { decided[x.id] = x.data(); }); render(); }, () => {});
+    d.doc('meta/sync').onSnapshot((s) => { const v = s.exists ? s.data() : null; syncedAt = v && v.at ? Date.parse(v.at) : null; nextAt = v && v.next ? Date.parse(v.next) : null; render(); }, () => {});
+    d.collection('log').orderBy('at', 'desc').limit(6).onSnapshot((snap) => { logRows = snap.docs.map((x) => x.data()); render(); }, () => {});
+  });
+  // No live polling of Notion: it burns the workspace's query allowance. Claude syncs the copy; writes still go through.
+  use('mcp').then((m) => { if (m) mcp = m; });
+})();
+</script>

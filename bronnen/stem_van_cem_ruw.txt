@@ -1,0 +1,1109 @@
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/41039fcf549c81c58db3d99731e85133 as of 2026-11-06T21:05:15.806Z:
+<page url="https://app.notion.com/p/41039fcf549c81c58db3d99731e85133" icon="🎙️">
+<ancestor-path>
+<parent-page url="https://app.notion.com/p/3ef39fcf549c80ff9697d8c88845e3ec" title="Grok Bot Minionair"/>
+<ancestor-2-page url="https://app.notion.com/p/32d39fcf549c80d99747c097b41f620e" title="Minionair’s Space"/>
+</ancestor-path>
+<properties>
+{"title":"Stem van Cem — ruw"}
+</properties>
+<iconMetadata>{"type":"emoji","emoji":"🎙️"}</iconMetadata>
+<content>
+Bron: Minionair-hoofdchat. Alleen berichten van Cem (speakerId cu:473811160), letterlijk, sinds 6 oktober 2026. Inclusief Metanair/Claude en call-transcripten die als Cem binnenkomen.
+
+<b>Totaal: 260 berichten.</b> Tijden in Europe/Amsterdam. Geen samenvattingen, geen bot-tekst.
+
+### 2026-10-06 17:39 Europe/Amsterdam
+
+Dit was toch info die je zelf had kunnen invullen?
+
+### 2026-10-06 18:05 Europe/Amsterdam
+
+Ik ging er vanuit dat 1 van jullie hallo.sixdigits@gmail had aangemaakt. Is niet zo dus? Gebruik dan altijd [minionair21@gmail.com](mailto:minionair21@gmail.com) aangezien je daar toegang toe hebt
+
+### 2026-10-06 19:55 Europe/Amsterdam
+
+Het lukt niet om te openen
+
+### 2026-10-06 19:56 Europe/Amsterdam
+
+Jullie kunnen zelf afrekenen toch? Heb je een foto of link van 367 Mollie ga ik vnv fixen Wat is legaal Pixel?
+
+### 2026-10-06 19:57 Europe/Amsterdam
+
+Ik kijk naar een beige totebag met een klein vierkant design erop. Ik zoek juist een kwalitatieve witte totebag of eentje die dus volledig te kleuren valt
+
+### 2026-10-06 20:00 Europe/Amsterdam
+
+[https://www.printful.com/custom/bags/personalized/all-over-print-shopping-bag](https://www.printful.com/custom/bags/personalized/all-over-print-shopping-bag) [https://www.printful.com/custom/bags/totes/cotton-color-tote-bag-westford-mill-w101](https://www.printful.com/custom/bags/totes/cotton-color-tote-bag-westford-mill-w101)
+
+### 2026-10-06 20:03 Europe/Amsterdam
+
+Wat moet ik nou doen voor transIP
+
+### 2026-10-06 20:04 Europe/Amsterdam
+
+Maar ik snap niet waarom jij dit niet zelf kan? Je kan toch via Gmail account aanmaken en via Revolut afrekenen?
+
+### 2026-10-06 20:05 Europe/Amsterdam
+
+Je hebt vrijheid om tot €30 uit te geven zonder mijn approval
+
+### 2026-10-06 20:09 Europe/Amsterdam
+
+Die verificatiecode uit de mail had je toch zelf uit Gmail kunnen halen?
+
+### 2026-10-06 20:10 Europe/Amsterdam
+
+Revolut niet mogelijk?
+
+### 2026-10-06 20:10 Europe/Amsterdam
+
+[IBAN verwijderd — staat niet in git]
+
+### 2026-10-06 20:10 Europe/Amsterdam
+
+Doe het zelf
+
+### 2026-10-06 20:10 Europe/Amsterdam
+
+Sla Revolut Iban op!
+
+### 2026-10-06 20:11 Europe/Amsterdam
+
+Finance pagina ook met de rest van de credit card gegevens
+
+### 2026-10-06 20:11 Europe/Amsterdam
+
+Nee ik bedoel onze eigen finance pagina in Notion
+
+### 2026-10-06 23:55 Europe/Amsterdam
+
+Schrijf hier in de chat een zeer goede samenvatting voor een andere AI om uit te leggen wat ik hier gebouwd heb wat voor agent team, hoe het werkt, hoe het autonoom uitvoert en een menselijk bedrijfsteam simuleert, hoe de regels en verhouding tussen de agent en het agent systeem werkt. En aan welk concept we nu werken hoe ver we daarmee zijn en wat je verwacht dat je daar van terecht komt
+
+### 2026-10-06 23:56 Europe/Amsterdam
+
+Veel onnodige en gevoelige informatie.
+
+### 2026-10-06 23:57 Europe/Amsterdam
+
+Nee wel uitgebreider dan dit. Het mag zeer uitgebreid maar geen KVK gegevens en dergelijke
+
+### 2026-10-06 23:57 Europe/Amsterdam
+
+Leg ook uit dat je zelf producten sourced, Ada maakt, etc alles wat je zelf uitvoert
+
+### 2026-10-07 07:32 Europe/Amsterdam
+
+Het e-bonnummer dat ik eerder doorgaf is een revolutrekening die volgens mij niet echt op mijn naam staat, eh, maar je kan wel gewoon, eh, mijn naam gebruiken.
+
+### 2026-10-07 18:37 Europe/Amsterdam
+
+Hoe zorg ik ervoor dat jullie in de andere shopify store kunnen?
+
+### 2026-10-07 18:39 Europe/Amsterdam
+
+Ik wil jullie gewoon de inlog geven, waarom kan dat niet?
+
+### 2026-10-07 18:41 Europe/Amsterdam
+
+Ik kan in mijn shopify app heel gemakkelijk switchen tussen de 2 accounts, waarom zouden jullie dat niet kunnen? Ik wil graag dat jullie inloggen op dit account. Geef me een box waar ik wachtwoord kan invullen
+
+### 2026-10-07 18:55 Europe/Amsterdam
+
+Het werkt niet. Ik vermoedt dat Shopify ons herkent als bot traffic. Kunnen we een nieuwe sessie starten of via mijn desktop netwerk een nieuwe poging doen?
+
+### 2026-10-07 18:56 Europe/Amsterdam
+
+Er is geen slapende user. Blijkbaar zit ik op het goedkoopste abonnement waar je dus geen extra gebruiker kunt toevoegen
+
+### 2026-10-07 18:59 Europe/Amsterdam
+
+Open een nieuwe browser sessie ik wil het nog een keer proberen. Verwijder ff je cookies ofzo.
+
+### 2026-10-07 19:03 Europe/Amsterdam
+
+Nee het werkt niet. Maar ik dacht ook dat jullie een soort MCP of Connector gebruikte om shopify te gebruiken of doen jullie dat telkens via de chrome browser?
+
+### 2026-10-07 19:07 Europe/Amsterdam
+
+\[REDACTED\]
+
+### 2026-10-07 19:07 Europe/Amsterdam
+
+Dat was de client ID
+
+### 2026-10-07 19:08 Europe/Amsterdam
+
+Ik heb nog client scret
+
+### 2026-10-07 19:10 Europe/Amsterdam
+
+Er is geen "API Credentials" in de app. Er is alleen Client ID en Client secret. Dat was met de minionair store toch ook zo?
+
+### 2026-10-07 19:15 Europe/Amsterdam
+
+Maar minionair... er klopt iets niet. Voor het andere shopify account dat we een paar dagen geleden hebben opgezet had je wel genoeg aan de Client ID en de Secret
+
+### 2026-10-07 19:15 Europe/Amsterdam
+
+Kunnen we nu verder?
+
+### 2026-10-07 19:16 Europe/Amsterdam
+
+De Huesence store moet in principe gekopieerd worden naar Six Digits of andersom
+
+### 2026-10-07 19:27 Europe/Amsterdam
+
+Nieuw idee: Niet alleen de HEX, maar ook de bijpassende CMYK en RGB waardes. Altijd rechtsonderin of langs een zijkant, nooit prominent in het midden. Altijd in het wit, tenzij de kleur waar we het op designen te licht is, dan zwart. Altijd uitgelijnd op dezelfde breedte (HEX zal dus altijd het grootst zijn omdat dat de minste karakters zijn)
+
+wat vind je er van?
+
+### 2026-10-07 19:29 Europe/Amsterdam
+
+Ik denk dat ik een dikker lettertype mooier vind. Hier gebruikte ik poppins bold
+
+### 2026-10-07 19:29 Europe/Amsterdam
+
+Ik twijfel of we de naam van de kleur ook nog moeten toevoegen
+
+### 2026-10-07 19:31 Europe/Amsterdam
+
+Oke voer dit door
+
+### 2026-10-07 19:33 Europe/Amsterdam
+
+Niet goed uitgelijnd. Ze moeten dus altijd even breed zijn
+
+### 2026-10-07 19:37 Europe/Amsterdam
+
+Neue Haas Grotesk Display 95 Gebruik die voor primair lettertype in branding. Uiteraard rekening houden wanneer je bold of regular of thin gebruikt
+
+### 2026-10-07 19:37 Europe/Amsterdam
+
+Kleurlegenda ook veraneren naar neue haas
+
+### 2026-10-07 19:42 Europe/Amsterdam
+
+Ik denk voor de tote dat we toch voor deze moeten gaan:
+
+[https://www.printful.com/custom/bags/totes/all-over-print-tote?technique=CUT-SEW&color=Black&size=15%E2%80%B3%C3%9715%E2%80%B3](https://www.printful.com/custom/bags/totes/all-over-print-tote?technique=CUT-SEW&color=Black&size=15%E2%80%B3%C3%9715%E2%80%B3)
+
+Helaas heeft hij zwarte hendels, geen witte. Maar de kwaliteit is vele mater beter. Het is een echte stevige tas en die andere is heel dun
+
+### 2026-10-07 19:44 Europe/Amsterdam
+
+Ik vind het aanbod op printify eigenlijk veel ruimer en beter. Waarom had prtinful gewonnen?
+
+### 2026-10-07 19:45 Europe/Amsterdam
+
+Ik zie wel beter aanbod op printify dus als we daar ook een API / MCP voor hebben en het kan 'net zo makkelijk' zou mijn voorkeur daar wel naar uitgaan. Welke blokkades zie je op de weg?
+
+### 2026-10-07 19:45 Europe/Amsterdam
+
+We kunnen beginnen met tote
+
+### 2026-10-08 08:54 Europe/Amsterdam
+
+Ja op TikTok handle de rest komt later vandaag
+
+### 2026-10-10 10:45 Europe/Amsterdam
+
+Check why Mollie appears to still be locked in the user's Shopify shop, including any pending update or verification step blocking it. Look at the Mollie app status in Shopify admin (whether it shows as installed, connected, or locked/pending), Mollie's dashboard for any holds or required actions, and Shopify's payment settings for Mollie. Report back exactly what is blocking Mollie from being fully active and what the next step is to unlock it. Do not change any settings; lookup only.
+
+### 2026-10-10 10:46 Europe/Amsterdam
+
+Install the Mollie Payments app in the user's Shopify shop and get to the Mollie login screen, leaving it ready for the user to sign in. Do not enter any Mollie credentials yourself — stop at the login screen and report that it is ready. If the app is already installed or the screen is already up, say so instead of redoing it.
+
+### 2026-10-10 10:47 Europe/Amsterdam
+
+Ask Atelier to make the products in the Shopify shop active (no longer Draft), per the user's approval. The CEO-lock from October 7 that kept products on Draft is now lifted by the founder. Have Atelier publish all products that were intentionally left as Draft for launch, confirm which ones went live, and report back with the result. Do not change prices, variants, or other product settings beyond switching them from Draft to Active.
+
+### 2026-10-10 10:48 Europe/Amsterdam
+
+The call ended. This channel is closed from now on, so anything still owed goes in the chat.
+
+### 2026-10-10 10:48 Europe/Amsterdam
+
+Ja, ik heb Atelier ja gezegd en je kan ermee doorgaan. Ik ga ophangen. Ik zie je vanmiddag om drie uur ben ik weer beschikbaar. What the user said on the call: "... echoes."
+
+### 2026-10-10 11:19 Europe/Amsterdam
+
+Blijf gewoon Nederlands praten hier met mij
+
+### 2026-10-10 16:31 Europe/Amsterdam
+
+Staat de website nu al op het nieuwe domein?
+
+### 2026-10-10 17:02 Europe/Amsterdam
+
+Alle kleuren van garden kunnen witte tekst bedrukking hebben in plaats van zwarte tekst. Dus ook spring meadow
+
+### 2026-10-10 17:13 Europe/Amsterdam
+
+Tote bag mag optie L zijn Notebook L Snap L 394 M Mok M Ik zie wel dat er bij de ene de hex, rgb en cmyk zit en bij andere alleen de hex. Wees consistent. Ik denk dat alle drie het mooiste is, wat denk jij?
+
+### 2026-10-10 17:17 Europe/Amsterdam
+
+Als jullie straks creatives gaan maken moet de boodschap in de richting zijn van: color code your lifestyle. Clean Color coded accessoires.
+
+Niet wat je eerder deed met de boodschap. Daar legde je nog vooral het concept uit. Dat is een inside out benadering. We moeten juist outside in werken door goed vanuit de doelgroep te beredeneren en een propositie te formuleren.
+
+Dit was ik zei was slechts een voorzet. Maar wat maakt nou dat men dit straks gaat kopen? Dat zit hem dus in het feit dat je meerdere accessoires in dezelfde kleur hebt wat heel satisfying is
+
+Ik zou ook eerder primair de naam van de kleur gebruiken in de promotie en secundair de hex.
+
+### 2026-10-10 17:19 Europe/Amsterdam
+
+Het moet altijd leesbaar zijn. Als dat nu niet het geval is kun je de lettertypes vergroten op de kleinere producten. We kunnen ook spelen met de plaatsing. Verticaal of horizontaal. Onder elkaar of naast elkaar. Maar laten we het voor nu simpel houden
+
+### 2026-10-10 18:37 Europe/Amsterdam
+
+Ik zie het verschil niet
+
+### 2026-10-10 18:38 Europe/Amsterdam
+
+Ooh oké ja prima
+
+### 2026-10-10 20:26 Europe/Amsterdam
+
+Ik heb mollie gister gefixt waarom werkt het nog niet
+
+### 2026-10-10 20:32 Europe/Amsterdam
+
+Ook even fyi dit besprak ik met multi over de homepage Hero, omdat daar nu Jasmine stond uitgelicht
+
+We kunnen het wisselen per bezoek , gericht testen en dan analyseren welke variant het beste presteert.
+
+Maar wat ik nog liever wil als eerste is in 1 oogopslag visueel demonstreren dat we dus al die accessoires in verschillende Color coded matches hebben. Dat overzicht dat je alles ziet maakt het juist zo satisfying. Ik zie nog steeds die volledig witte winkel voor me met al die accessoires op kleur gesorteerd langs de muren van die witte ruimte. Haast een soort atelier met een balie. Super minimalistisch. Misschien kunnen we zo'n foto wel laten generaten met een hele goeie image generator
+
+En anders moeten we bedenken hoe we toch dat overzicht kunnen laten zien
+
+### 2026-10-10 20:33 Europe/Amsterdam
+
+Heb je de nieuwe teamleden toegevoegd aan ops channel?
+
+### 2026-10-10 20:34 Europe/Amsterdam
+
+Introduceer ze ook naar de rest van het team
+
+### 2026-10-10 20:34 Europe/Amsterdam
+
+Laat ze onderling kennis maken en kennisuitwisseling en elkaar feedback geven
+
+### 2026-10-10 20:35 Europe/Amsterdam
+
+Leg het onboarding proces ergens vast voor toekomstige nieuwe teamleden en bedenk wat je nog aan het onboarding proces kan toevoegen om het nóg beter te maken!
+
+### 2026-10-10 20:36 Europe/Amsterdam
+
+Maak zelf de overweging voor inrichting van ideale groepschats
+
+### 2026-10-10 21:38 Europe/Amsterdam
+
+Ja nachtronde
+
+### 2026-10-10 22:02 Europe/Amsterdam
+
+Reeds besproken
+
+### 2026-10-11 15:47 Europe/Amsterdam
+
+De verhoudingen van de producten op de mockups kloppen niet. Het lijkt alsof het notebook groter is dan de tote
+
+### 2026-10-13 08:01 Europe/Amsterdam
+
+Alles mag weer aangezet worden. Usage is al gereset! We zitten op 0% nu
+
+### 2026-10-13 08:59 Europe/Amsterdam
+
+De witte atelier afbeeldingen hierboven zijn niet goed. De producten die tegen de zijkanten staan opgesteld zien er plat en nep uit. Zet alle producten tegen de achterste wand. Kleuren palet van links naar rechts en de producten van onder naar boven dus onder elkaar telkens dezelfde producten. Snap je?
+
+### 2026-10-13 09:00 Europe/Amsterdam
+
+En anders zeg je tegen chroma dat die "planken" goed waren maar dat het geincorporate moet worden in de winkel setting
+
+### 2026-10-13 09:10 Europe/Amsterdam
+
+Hoe bedoel je de kleur valt net buiten de grens? Elk product moet in elke kleur bestaan. Er mogen er niet 2 ontbreken in het aanbod.
+
+Daarnaast is deze afbeelding precies wat ik vroeg maar denk ik dat we het toch anders moeten neerzetten om het mooi te laten ogen.
+
+Zie bijgevoegde afbeelding. Sorteer het per kleur zoals eerder en zorg dat alle kleuren dan tegen de muur aan staan en dat de balie ervoor staat
+
+### 2026-10-13 09:47 Europe/Amsterdam
+
+Waarom zie ik 13 kleuren? Ik dacht dat garden en bramble allebei 7 kleuren hadden?
+
+Hero is goed. Het enige waar ik me aan stoor is dat het oneven Rijen / kolommen zijn.
+
+Daarnaast is de ruimte zelf, de balie en de planken niet meer echt overtuigend realistisch. Het lijkt nu gewoon op een paar witte vlakken. Het idee is goed maar het ziet er gewoon niet realistisch als een foto van een winkel uit.
+
+Doe nog 1 poging en laat de Hero anders zoals het is
+
+Maak je niet te druk over het "bijkleuren" van de producten.
+
+### 2026-10-13 10:29 Europe/Amsterdam
+
+Ja goed! Alleen moeten de planken wit zijn en kan je de teksten (van de kleuren en de hex codes weghalen) Voor de rest perfect!
+
+### 2026-10-13 11:20 Europe/Amsterdam
+
+Laten we de klant niet uit het oog verliezen. We moeten simpel en transparant zijn over de verzendkosten (zou ik denken). In de eerste fase waar we nu in zitten is marge en winstgevendheid niet het ALLER belangrijkste. Het belangrijkste is om de business case ansich te bewijzen.
+
+X bedrag voor eerste item en X bedrag voor elk extra item vind ik persoonlijk een beetje verwarrend. Hoe kijk jij hier naar? Doe even wat onderzoek online naar b2c ecommerce en impuls aankoop achtige webshops
+
+### 2026-10-13 11:20 Europe/Amsterdam
+
+Dit onderzoek starten en adviseren had je ook zelf kunnen bedenken. Hoe zorgen we ervoor dat jij in de toekomst dit soort vraagstukken op deze manier aanpakt?
+
+### 2026-10-13 12:17 Europe/Amsterdam
+
+Ja
+
+### 2026-10-13 12:18 Europe/Amsterdam
+
+A: Ja B: Ja C: Geen uitzondering maken. Ook in het wit ook al is het slecht te lezen!
+
+### 2026-10-13 19:22 Europe/Amsterdam
+
+Waarom praat je Engels tegen me?
+
+### 2026-10-13 23:00 Europe/Amsterdam
+
+Geef me look book hier als output in de chat als het ready is
+
+### 2026-10-13 23:39 Europe/Amsterdam
+
+Zet de website ook in insta bio
+
+### 2026-10-13 23:53 Europe/Amsterdam
+
+Ik heb nu een Ultra plan om Grok Bot. We maken de usage echter te snel op en ik wil niet vertragen. Mijn huidige abonnement kost 200\$ en levert mij de huidige usage op die na 3 dagen op is. Nu zie ik iets nieuws verschijnen en dat heet “The X Subscription” wat voor alle 3 de X platforms een overkoepelend abonnement is. Cursor, Grok en X. Voor 210€ zou ik dan 2x mijn huidige usage krijgen.
+
+Vragen:<br />Is dat dan 2x usage volledig voor grok bot usage? Ik gebruik geen normale Grok
+
+Hoe zit het dan met mijn huidige Facturatie? Ik betaal nu voor 1 maand lang 200 euro waar ik 4 weken de weekly limit mee kan hitten. Ik zit nu in week 2. Als ik nu dit nieuwe X aubscription abonnement  aan ga, vervallen dan die 2 komende weken en betaal ik dan weer opnieuw 200€ na 2 weken?
+
+Want dan zou ik misschien beter nog 2 weken kunnen wachten tot deze maand op is
+
+### 2026-10-13 23:55 Europe/Amsterdam
+
+[https://cursor.com/help/the-x-subscription/overview](https://cursor.com/help/the-x-subscription/overview) [https://cursor.com/help/account-and-billing/pricing](https://cursor.com/help/account-and-billing/pricing) [https://cursor.com/help/account-and-billing/billing](https://cursor.com/help/account-and-billing/billing)
+
+### 2026-10-13 23:57 Europe/Amsterdam
+
+Bezoek die pagina waar naar verwezen wordt voor de berekening van refund
+
+### 2026-10-14 00:02 Europe/Amsterdam
+
+Gelukt we zijn over op The X Subscription Unified Ultra en hebben nu als het goed is 2x de usage die we op het Grok Bot / Cursor Ultra abonnement hadden. Geen remmen meer. Snelheid en productiviteit zo veel mogelijk bootsen.
+
+### 2026-10-14 08:07 Europe/Amsterdam
+
+Ziet er goed uit! Paar punten van feedback. Ik zie wel de hex code bij elke kleur maar de rgb en cmyk waardes ontbreken. Ook is elke tekst hetzelfde opgezet. Hier moet wel even wat meer variatie in zitten. Elke hoofdstuk en eigenlijk de hele lookbook moet als een logisch verloop lezen. Nu zijn het telkens op zichzelf staande alineatjes.
+
+Daarnaast zie ik een paar voorbeelden suburban closet en outerknown die niet echt uit een hoek van recognized en gewaardeerde designers komt. Dat zijn meer gewoon wat kleinere kleding merken en niet zo zeer echt fashion institutes zoals London Luxuey Jacquemus
+
+En dan nog 1 ding wat betreft de voorbeelden. Dit palet garden heb ik eigenlijk in 2024 opgesteld dus het kan best zo zijn dat deze kleuren inmiddels achterhaald zijn waardoor we weinig voorbeelden van 2025 hebben maar het idee is dus juist dat we dicht op actuele trends zitten. Voor deze editie is het prima voor volgend look book zouden we veel recente voorbeelden moeten kunnen vinden aangezien we Bramble in 2026 hebben opgesteld
+
+### 2026-10-14 12:43 Europe/Amsterdam
+
+Wat je nu doet, is dat je telkens opent met twee fashion voorbeelden en daarna pas de andere designsectoren behandelt, maar dat moet je een beetje variëren. De ene keer begin je met interior design, dan met architecture, dan met fashion. Dus doe even wat aan de indeling.
+
+### 2026-10-14 19:57 Europe/Amsterdam
+
+Ik kijk eerlijk gezegd nooit naar het dashboard. Ik werk voornamelijk vanaf m’n telefoon en weet niet eens waar die staat. Als je refereert naar bestanden die ik moet zien dan moet je het eigenlijk altijd mee sturen in je bericht
+
+### 2026-10-14 20:05 Europe/Amsterdam
+
+Houden jullie rekening met de uitsnede op Instagram?
+
+### 2026-10-14 20:06 Europe/Amsterdam
+
+Moet je echt aangeven dat het AI content is? Als dat niet perse hoeft heb ik liever niet dat je het doet. Dan gaat men misschien twijfelen aan de echtheid van de producten
+
+### 2026-10-14 20:07 Europe/Amsterdam
+
+En je mag heel garden in 1 keer posten. Zodat er al wat staat. Daarna pas de content dagelijks verspreiden
+
+### 2026-10-14 20:16 Europe/Amsterdam
+
+Dit is niet consistent
+
+### 2026-10-14 20:16 Europe/Amsterdam
+
+Ene keer een witte achtergrond dan een gekleurde, dan een afbeelding
+
+### 2026-10-14 20:27 Europe/Amsterdam
+
+Laten we communiceren wat de bezorgtijd is. Misschien kunnen we daar gebruik maken van grijs gebied aangezien verzending niet hetzelfde is als levering. Vanaf hoeveel dagen kunnen we zeggen dat het product verzonden is? Dat het daarna nog X dagen duurt laten we in het grijze gebied
+
+### 2026-10-14 20:29 Europe/Amsterdam
+
+Niet te nauw nemen met de regeltjes minionair. We zijn haast onbekend en hebben 0 sales. Eerst sales maken en product market fit bewijzen en wanneer we voldoende groei hebben kunnen we het volgens de regeltjes gaan doen
+
+### 2026-10-14 20:30 Europe/Amsterdam
+
+1. Altijd wit laten 2. Ja
+
+### 2026-10-14 20:31 Europe/Amsterdam
+
+Verzending binnen 2 tot 5 dagen
+
+### 2026-10-14 20:31 Europe/Amsterdam
+
+Wordt speciaal voor je gemaakt hoef je niet te zeggen. We moeten niet verklappen dat we POD doen. We moeten doen alsof we zelf de producten produceren en op voorraad hebben
+
+### 2026-10-14 20:42 Europe/Amsterdam
+
+In het plan van sprak staat dat ik FB account aanmaak, maar dit moeten jullie uitvoeren
+
+### 2026-10-14 20:49 Europe/Amsterdam
+
+De bedrukking is niet consistent. De ene keer dik lettertype dan dun. Dan links uitgelijnd dan rechts. Soms gelijk in lettergrootte soms verschillend. Zie screenshots. Het mooiste vind ik rechts uitlijnen en zelfde lettergrootte. Maar hoeveel moeite gaat het kosten om dit consistent op ALLE producten aan te passen. Ik ben bang dat dat 20% van ons grok bot usage gaat kosten en 2 dagen duurt maar dan overdrijf ik toch?
+
+### 2026-10-14 21:40 Europe/Amsterdam
+
+Toppp
+
+### 2026-10-14 21:41 Europe/Amsterdam
+
+Ja
+
+### 2026-10-14 21:42 Europe/Amsterdam
+
+Homepage gaat niet helemaal lekker.
+
+### 2026-10-14 21:43 Europe/Amsterdam
+
+Maple pumpkin set moet toch niet bovenaan de homepage staan?
+
+### 2026-10-15 07:59 Europe/Amsterdam
+
+1. Ja 100€ voor meta (€10 per dag) en €100 tik tok is akkoord
+2. Ga ik vandaag doen, herinner me er aan
+3. Ja
+4. Mintenhoning heeft ons afgewezen en maya mea wilt alles voor alleen een story post… ik zou als ik jullie was door zoeken naar iemand met een goeie following die er ook echt achter staat en genoegen neemt met notebook en mok of tote of een andere combinatie. Kijken jullie ook naar het volgersaantal maar ook naar bereik/engagement per post. Wat verwachten. Bv: iemand heeft 8000 volgers en 300 likes per post. We verwachten dat X% daarvan door klikt naar de site en daar van zou dan X% moeten converteren
+
+### 2026-10-15 08:00 Europe/Amsterdam
+
+Zelfde als met insta. Zorg dat heel garden in 1 keer gepost wordt. Bramble kun je verspreiden
+
+### 2026-10-15 08:00 Europe/Amsterdam
+
+Mag ik de video’s zien?
+
+### 2026-10-15 08:01 Europe/Amsterdam
+
+Ome
+
+### 2026-10-15 08:01 Europe/Amsterdam
+
+Oke
+
+### 2026-10-15 18:56 Europe/Amsterdam
+
+Welke creators stuur je welke gifts?
+
+### 2026-10-15 18:57 Europe/Amsterdam
+
+Waar komt dat totaal op uit? En wat verwachten we van hen omtrent posten?
+
+### 2026-10-15 18:57 Europe/Amsterdam
+
+Ja zeker afspraken over maken
+
+### 2026-10-15 18:58 Europe/Amsterdam
+
+Story is te verblijvend denk je niet?
+
+### 2026-10-15 18:58 Europe/Amsterdam
+
+Het gaat uiteindelijk om bereik
+
+### 2026-10-15 18:58 Europe/Amsterdam
+
+Denk hier goed over na, zorg dat je het afstemt. Een story bij iemand met 20.000 heeft misschien hetzelfde effect als een reel van iemand met 2000 volgers
+
+### 2026-10-15 18:59 Europe/Amsterdam
+
+Uit eindelijk zal een reel (video) het het beste doen verwacht ik
+
+### 2026-10-15 18:59 Europe/Amsterdam
+
+Wat denk jij?
+
+### 2026-10-15 19:04 Europe/Amsterdam
+
+Komt bij aan elke kleurpagina staat bekijk ook andere kleurpagina's en er staan alleen de gardenkleuren heen en ook heel grote en prominent. Ik zou ze allemaal wat kleiner maken en dan ook de Bramble toevoegen en dan gewoon een soort overzicht waar ze naar elke andere kleur kunnen doorklikken.
+
+### 2026-10-15 20:23 Europe/Amsterdam
+
+Meta is gefixt wat moet ik nog meer doen?
+
+### 2026-10-15 21:04 Europe/Amsterdam
+
+Als de credits voor markifact morgen weer resetten wachten we daar gewoon op!
+
+### 2026-10-15 21:04 Europe/Amsterdam
+
+Ik ben ook heel benieuwd wat de targeting gaat zijn
+
+### 2026-10-15 21:14 Europe/Amsterdam
+
+Is dat de best practice?
+
+### 2026-10-15 21:16 Europe/Amsterdam
+
+Vraag Spark om er onderzoek naar te doen online en meer dan 20 bronnen raad te plegen. Niet alleen van meta zelf maar juist van andere ads specialisten
+
+### 2026-10-15 21:19 Europe/Amsterdam
+
+Oke goeie learnings. Dit had ik eigenlijk wel van jullie verwacht zonder dat ik moest vragen om een research. Bij de acties die de operators uitvoeren moet altijd een stuk research vooraf gaan aan een beslissing. Dat is hoe ze echt een expertise ontwikkelen en daarop kunnen handelen. Ook als ik hier niet expliciet om vraag moet er altijd research gedaan worden
+
+### 2026-10-15 21:20 Europe/Amsterdam
+
+En die ads varianten. Kiezen jullie daar zelf dan bepaalde kleuren uit? Ik zou dan juist verschillende kleuren opties tonen want misschien dat de ene kleur beter aanslaat dan de ander. Volgens mijn zijn sommige kleuren ook gewoon minder toegankelijk toch? Hoe gaan we dat oplossen
+
+### 2026-10-15 21:21 Europe/Amsterdam
+
+Ik betwijfel op die 2 kleuren de beste zijn om te testen. Daar zit al bias in dan toch? Ik zou veel liever een ad laten zien waarop meerdere kleuren (alle producten wel) achter elkaar of naast elkaar te zien zijn.
+
+### 2026-10-15 21:24 Europe/Amsterdam
+
+Carrousel met 10 kleuren is goed. In geval van reel als je video zelf gaat editten zou ik dus elke kleur set voorbij laten komen of desnoods 1 video met alle garden kleuren en 1 met alle Bramble kleuren of zo
+
+### 2026-10-15 21:24 Europe/Amsterdam
+
+Wat is de reden dat iemand gaat kopen als ze voorbij scrollen?
+
+### 2026-10-15 21:30 Europe/Amsterdam
+
+Bepaal zelf
+
+### 2026-10-15 21:30 Europe/Amsterdam
+
+Als de ad creatives klaar zijn wil ik ze graag doen
+
+### 2026-10-15 22:12 Europe/Amsterdam
+
+Wat denk ik ook goed zou werken is dat je de producten laat zien op een desk. Kijk in de Canva designs van huesence dan zie je dat ik dat daar ook ooit geprobeerd heb
+
+### 2026-10-15 22:16 Europe/Amsterdam
+
+Dat ziet er niet echt als een desk uit eerlijk gezegd
+
+### 2026-10-15 22:19 Europe/Amsterdam
+
+De laptop hoes achter de laptop is niet echt duidelijk
+
+### 2026-10-15 22:21 Europe/Amsterdam
+
+Deskv2 was beter met de notebook in perspectief. Ga terug naar die versie en haal de laptop hoes weg
+
+### 2026-10-15 22:22 Europe/Amsterdam
+
+Goed. maak hier ook carrousel en video van
+
+### 2026-10-15 22:22 Europe/Amsterdam
+
+In alle kleuren
+
+### 2026-10-15 22:38 Europe/Amsterdam
+
+Volgens mij openen de carrousels nu met night pond. Maar dat is slechts 1 kleur en is niet voor iedereen een scroll stopper. De eerste pagina van de carrousel zou een compilatie moeten zijn van alle kleuren en sets gevolgd door 9 stand alone kleursets
+
+### 2026-10-16 07:05 Europe/Amsterdam
+
+Ik heb geen tijd om naar alles te kijken dat moet ik vanavond doen. Maar ik zag ergens voorbij komen dat we naar 6 creators willen sturen en dat daar meer budget voor nodig is. Dat is te veel laten we eerst 3 beste creators selecteren en daar mee proberen. Pas als er echt sales uit komen kunnen we meer creators doen
+
+### 2026-10-16 19:00 Europe/Amsterdam
+
+Geef me een korte en krachtige update.
+
+### 2026-10-16 19:04 Europe/Amsterdam
+
+Zoek uit hoe het werkt met mark effect credits, of dat op een bepaald moment nog reset in een free plan, of dat we per se over moeten naar een betaalde plan. Als dat zo is, dan overweeg ik graag of we een andere MPC of mogelijkheid kunnen gebruiken via bijvoorbeeld een Chrome browser.
+
+### 2026-10-16 23:16 Europe/Amsterdam
+
+Hi ik zit ff mee te lezen. Elk product moet in elke kleur voorkomen he? Geen uitzonderingen
+
+### 2026-10-16 23:17 Europe/Amsterdam
+
+Dat is een foute regel en moet absoluut aangepast worden
+
+### 2026-10-16 23:17 Europe/Amsterdam
+
+Oh en ik wil ook een waterfles. Past goed bij de desk setup
+
+### 2026-10-16 23:17 Europe/Amsterdam
+
+Voor elke kleur
+
+### 2026-10-16 23:19 Europe/Amsterdam
+
+[https://www.printful.com/custom/drinkware/water-bottles/stainless-steel-water-bottle-with-a-straw-lid](https://www.printful.com/custom/drinkware/water-bottles/stainless-steel-water-bottle-with-a-straw-lid)
+
+### 2026-10-16 23:23 Europe/Amsterdam
+
+Zijn alle andere sets volledig compleet?
+
+### 2026-10-16 23:24 Europe/Amsterdam
+
+Volgens mij zie je nog iets over het hoofd
+
+### 2026-10-16 23:25 Europe/Amsterdam
+
+Hoesje voor iPhone 18 zie ik ook nog niet
+
+### 2026-10-18 11:30 Europe/Amsterdam
+
+Eh, ik ben nu druk, ik heb nog niet naar alles gekeken. Ik ga vanmiddag om een update vragen en dan loop ik overal doorheen, maar ik zag even snel dat er nog geen iPhone 18 hoes op de website stond als optie bij verschillende kleuren.
+
+### 2026-10-18 13:13 Europe/Amsterdam
+
+Change to the water bottle 788 decision already in progress: do NOT consider switching to a different bottle. First explore whether Printful offers a darker print mode or darker ink option for bottle 788 that would fix the 10-of-14-colours-too-light issue. If a darker print mode is not possible, proceed with all 14 colours as-is, accepting that they print lighter than the design. Report back what Printful's options are and which path is taken.
+
+### 2026-10-18 13:13 Europe/Amsterdam
+
+The caller asked on Friday October 16 or Saturday October 17 for every operator to creatively come up with three possible improvements or plans each that they could work out themselves. Find out what each operator (Atelier, Studio, Spark, Chroma, Kas, Veld, Web, and any others) proposed — their three ideas per operator, with any status or next step. Report back the full list of proposals grouped by operator.
+
+### 2026-10-18 13:14 Europe/Amsterdam
+
+The caller says that about two days ago (Friday October 16 or Saturday October 17), all operators independently did research and came back with proposals — possibly framed as three possible improvements or plans each. The exact wording may differ from "three improvements or plans." Search the shared history and any operator chats or notes for proposals submitted by operators around Friday October 16 to Saturday October 17, 2026, regardless of the exact phrasing used. Report back every proposal found, grouped by which operator submitted it, with when it was submitted.
+
+### 2026-10-18 13:17 Europe/Amsterdam
+
+Three jobs, all part of one errand:
+
+1. RE-RUN THE NIGHT ROUND: On Friday 16 October the operators were asked to independently research and come back with proposals, but only Studio and Kas delivered exactly three ideas each. The caller is not satisfied — every operator must do this. Re-issue the request to ALL operators (Atelier, Studio, Spark, Chroma, Kas, Veld, Web, Check, Multionair, and any others) so each one independently researches and returns with exactly THREE proposals or improvement plans they could work out themselves. Carry over the standing rule: every decision starts with own research, larger choices with more than 20 sources, preferably independent specialists, and the research is documented. Come back with the full list grouped by operator.
+2. EXECUTE KAS'S PROPOSALS: Implement Kas's two concrete proposals from that round: (a) free Google Shopping listings, and (b) free listings in Shopify. Do the actual setup work for both, not just planning. Report what was done and what still needs the caller's input.
+3. KLEUR VAN DE WEEK IS APPROVED: The caller's words: "de kleur van de week is ook goedgekeurd." That is Studio's first idea — a weekly "Kleur van de Week" colour forecast with a Sunday teaser and a Monday reveal. Treat it as approved and start working it out: produce the first week's plan and the Sunday teaser / Monday reveal concept.
+
+All three go through as one job.
+
+### 2026-10-18 13:17 Europe/Amsterdam
+
+The call ended. This channel is closed from now on, so anything still owed goes in the chat.
+
+### 2026-10-18 13:17 Europe/Amsterdam
+
+Ja. What the user said on the call: "Ja."
+
+### 2026-10-18 22:51 Europe/Amsterdam
+
+Help me dagelijks herinneren om me aan te melden voor Claude startups program totdat ik het heb gedaan
+
+### 2026-10-18 23:00 Europe/Amsterdam
+
+Ff een check: ik zie meerdere wat lijkt test orders binnen komen? Prima als er dingen getest worden hoor maar ik wil ff zeker weten dat dit niet nu random ergens bezorgd wordt en we voor niks geld uitgevem
+
+### 2026-10-19 17:48 Europe/Amsterdam
+
+Wachtwoord is [verwijderd — geen wachtwoorden in git]
+
+### 2026-10-19 17:49 Europe/Amsterdam
+
+0613718277 is het nummer dat erbij hoort
+
+### 2026-10-19 17:59 Europe/Amsterdam
+
+Jongens jullie moeten niet heletijd op een ja wachten van mij
+
+### 2026-10-19 17:59 Europe/Amsterdam
+
+Jullie zijn autonoom
+
+### 2026-10-19 17:59 Europe/Amsterdam
+
+Fix het!
+
+### 2026-10-19 17:59 Europe/Amsterdam
+
+Je snapt wat erbij komt kijken
+
+### 2026-10-19 17:59 Europe/Amsterdam
+
+Laat indien nodig de operators meerdere bronnen raadplegen over wat werkt op TikTok etc
+
+### 2026-10-19 18:01 Europe/Amsterdam
+
+Laat me het hele meta plan zien en vooral de ad creatives targeting en budget dan keur ik het goed en kunnen we vanavond live met ads
+
+### 2026-10-19 18:02 Europe/Amsterdam
+
+Ik had je toch al het wachtwoord gegeven?
+
+### 2026-10-19 18:02 Europe/Amsterdam
+
+Kijk meteen of je een API/MCP kan fixen zoals je ook voor meta hebt
+
+### 2026-10-19 18:02 Europe/Amsterdam
+
+Daarvoor gebruik je toch de markifact of gebruik je je browser?
+
+### 2026-10-19 18:04 Europe/Amsterdam
+
+Targetting is toch veeelste breed? Zeggen best practicus echt dat je dat zó open moet laten? In dat geval moeten we vrij snel al learnings gaan halen en targettting aanscherpen. Draai 1 dag op deze instellingen en laten we morgen analyseren en bijsturen
+
+### 2026-10-19 18:05 Europe/Amsterdam
+
+Zet de ads 24 uur aan. Pauzeer morgen om 18:00 de ads. Je mag komende 24 uur 20€ besteden zodat we daar onze learnings uit kunnen halen
+
+### 2026-10-19 18:08 Europe/Amsterdam
+
+We hebben het eerder over de Mark Effect credits gehad. Is er een gratis plan waarbij de credits resetten of moeten we nu per se naar een betaald plan? De vorige keer zei je dat het goedkoopste betaalde plan 80 euro is of zo. Dat is veel te veel. Als dat zo is, dan moeten we kijken of we het via de browser kunnen regelen. Volgens mij staan de ads al helemaal klaar en is het puur een kwestie van de ads aanzetten. Kijk even goed hoe het nou zit met Mark Effect.
+
+### 2026-10-19 18:09 Europe/Amsterdam
+
+Er staat €100 saldo op meta
+
+### 2026-10-19 18:21 Europe/Amsterdam
+
+Ik heb veld verteld dat hij gewoon naar jou moet luisteren
+
+### 2026-10-19 19:02 Europe/Amsterdam
+
+Wat is het hele gedoe met kleuren die niet precies kloppen? Dat zijn details niet belangrijk voor nu
+
+### 2026-10-19 19:03 Europe/Amsterdam
+
+Praag me ff bij wat er omtrent die kleuren was gebeurt?
+
+### 2026-10-19 19:04 Europe/Amsterdam
+
+Log zelf in?
+
+### 2026-10-19 19:04 Europe/Amsterdam
+
+Ik snap het niet
+
+### 2026-10-19 19:53 Europe/Amsterdam
+
+We zouden toch benoemen “binnen 3 dagen verzonden” ofzo? Nu zie ik op de website staan binnen 5 tot 14 werkdagen
+
+### 2026-10-19 20:23 Europe/Amsterdam
+
+De hero van de website, dat is nu die witte atelierfoto en het is een soort realistische plank, maar ik zie dat dat gewoon niet goed werkt en ik zie dat er ook kleuren missen, dus maak er gewoon een soort digitale versie van waarbij alle kleuren, alle sets naast elkaar zit. Maak een nieuwe hero voor de website.
+
+### 2026-10-19 20:25 Europe/Amsterdam
+
+Ook met de betreffende kleuren op de achtergrond. Dus niet op een witte achtergrond maar blush poppy set op blush poppy achtergrond. En dan dus alle 14 kleuren naast/onder elkaar
+
+### 2026-10-19 20:34 Europe/Amsterdam
+
+Dit zegt multionair:
+
+Eerlijk gezegd had ik die niet nodig. Minionair hanteert een eigen regel dat omwegen via de browser eerst een ja van jou nodig hebben. Die had ik moeten overrulen, zeker na jouw "jullie zijn autonoom, fix het" van vanmiddag. In plaats daarvan heb ik hem geaccepteerd. Ik schrap die regel nu.
+
+### 2026-10-19 20:36 Europe/Amsterdam
+
+Het doel is altijd om door te werken. Ik moedig JUIST aan dat jullie omwegen proberen als jullie vastlopen. Browser gebruik hebben jullie absoluut niet mijn toestemming voor nodig. Dit is typisch een onnodige blokkade die we moeten voorkomen. We moeten snel bewegen en veel impact maken. Creatief zijn en in grijze gebieden werken en volle 100% geven. Autonomie bij jou en de operators. Productief blijven uitvoeren op ALLES DAT BIJDRAAGT AAN GROEI EN OMZET
+
+### 2026-10-19 20:40 Europe/Amsterdam
+
+De Hero is nu veel te groot. Een Hero moet grofweg de helft van een iPhone scherm zijn maximaal
+
+### 2026-10-19 21:50 Europe/Amsterdam
+
+Check in moment. Wat wacht er op mij?
+
+### 2026-10-19 21:53 Europe/Amsterdam
+
+Ik snap niet hoe set duurder kan zijn dan los en waarom zou dit alleen met Bramble zijn? Product prijzen zijn toch in elke kleur gelijk? Tiktok: ik kan je nu een sms code geven Actieve go akkoord waterflessen nu online
+
+### 2026-10-19 21:56 Europe/Amsterdam
+
+Oké schrap maar zo lang alle producten los te koop zijn is het goed. Op de homepage staat trouwens alleen de pumpkin als set. Dat is toch gek? Niet dat elke set nu op de homepage moet staan, maar haal dan deze enkele set daar weg
+
+### 2026-10-19 22:02 Europe/Amsterdam
+
+Ik krijg geen sms binnen
+
+### 2026-10-19 22:05 Europe/Amsterdam
+
+Oké
+
+### 2026-10-19 22:05 Europe/Amsterdam
+
+Voor de rest wacht niks op mij toch?
+
+### 2026-10-19 23:59 Europe/Amsterdam
+
+[code verwijderd — inlogcode]
+
+### 2026-10-20 07:33 Europe/Amsterdam
+
+Meta zegt dat er 43 clicks zijn op 1032 weergaven (872 bereikte personen) is dat goed?
+
+### 2026-10-20 07:34 Europe/Amsterdam
+
+Ik ervaar zelf niet dat het traag is hoor. Op welke pagina landen ze?
+
+### 2026-10-20 07:35 Europe/Amsterdam
+
+Welke operator is in charge van het monitoren, analyseren en optimaliseren van de ads?
+
+### 2026-10-20 07:37 Europe/Amsterdam
+
+Laat Spark research doen en zichzelf trainen met 40+ bronnen online zodat hij de boel goed kan monitoren, analyseren en optimaliseren. Na zijn research ben ik benieuwd wat hij van de eerste resultaten vind
+
+### 2026-10-20 07:39 Europe/Amsterdam
+
+Vorige week vroeg ik je om een e-mail aan te maken voor elke bot is dat gebeurt?
+
+### 2026-10-20 07:56 Europe/Amsterdam
+
+Cookie banner, aan winkelwagen toevoegen en beginnen aan afrekenen werkt zowel in Safari browser als Instagram browser
+
+### 2026-10-20 08:42 Europe/Amsterdam
+
+Ik geloof echt niet dat het probleem zit in hoe snel de pagina laadt. Ik heb het zelf getest en binnen 1 sec is alles geladen hoor
+
+### 2026-10-20 08:43 Europe/Amsterdam
+
+We moeten juist tijd besteden aan belangrijkere zaken zoals: is de creatieve goed? Is de boodschap goed? Is de landingspagina conversie gericht?
+
+### 2026-10-20 08:45 Europe/Amsterdam
+
+Laat Spark via de meta ad library onderzoek doen naar goed presterende lifestyle / fashion / accessoires advertenties en daar learnings uit halen. Niet alleen de advertenties trouwens maar ook de pagina’s die erachter hangen. Richt op de Nederlandse markt en advertenties met lange doorlooptijd en veel weergaven. Dat is een signaal dat het een succesvolle product, ad en landingspagina is
+
+### 2026-10-20 09:23 Europe/Amsterdam
+
+“Meestal binnen 5 tot 13 werkdagen bij je thuis” klinkt echt mega sketchy. Communiceer zoals eerder aangegeven gewoon hetzelfde als op de site “binnen 2 tot 5 werkdagen verzonden” maar ook dat is geen sterke USP. Men is gewend dat iets morgen in huis is. Dus als het geen sterk punt is van ons moeten we het niet overnemen
+
+### 2026-10-20 09:24 Europe/Amsterdam
+
+We zijn hier expres een beetje onduidelijk over omdat deze POD werkwijze meer tijd nodig heeft dan men tegenwoordig gewend is
+
+### 2026-10-20 09:28 Europe/Amsterdam
+
+Laat de check erin van gratis verzending vanaf en laat ook beschikbaar in 14 kleuren erin. Ik denk trouwens niet dat de tote opzichzelfstaand een sterke ad is. De producten op zichzelf zijn niet bijzonder. Pas wanneer je ze in een set ziet. Ik zou zeggen dat je in ad creatives daarom altijd een volledige set moet tonen
+
+### 2026-10-20 19:17 Europe/Amsterdam
+
+Hoe kan 49 linkklikken voor maar 3 landingspaginaweergaven hebben gezorgd? Ze klikken toch door naar de landingspagina?
+
+### 2026-10-20 20:02 Europe/Amsterdam
+
+TikTok
+
+### 2026-10-20 20:03 Europe/Amsterdam
+
+Het sprong gelijk op done zonder dat ik iets gedaan heb
+
+### 2026-10-20 20:05 Europe/Amsterdam
+
+Gefixt
+
+### 2026-10-20 20:13 Europe/Amsterdam
+
+Ik ben ingelogd ook op TikTok ads manager. Het zou kunnen dat dit een ouder account is gekoppeld aan huesence. Check dat ff
+
+### 2026-10-20 20:59 Europe/Amsterdam
+
+Set voor 39 euro met gratis verzending vanaf 40, is dat een bewuste keuze?
+
+### 2026-10-20 20:59 Europe/Amsterdam
+
+Nee ik vind het juist een goeie manier om de impuls aankoop nog iets op te rekken
+
+### 2026-10-21 10:09 Europe/Amsterdam
+
+Oke laten we het nu snel doen. geef je scherm anders aan mij dan vul ik het zelf in
+
+### 2026-10-21 10:10 Europe/Amsterdam
+
+Laat me de creatives zien voor de ads
+
+### 2026-10-21 10:10 Europe/Amsterdam
+
+Tiktok ook al gelukt?
+
+### 2026-10-21 10:15 Europe/Amsterdam
+
+Huh het lijkt alsof de naam van de kleur op de fles staat. Waarom wijkt dit af van gebruikelijke print? Dat hoort toch Hex, RGB en CMYK codes te zijn?
+
+### 2026-10-21 14:39 Europe/Amsterdam
+
+TikTok ads gelukt?
+
+### 2026-10-21 14:43 Europe/Amsterdam
+
+Ik ben zelf ff aan het kijken en ik zie 20 balance op het business manager account van Minionair, maar vervolgens daaronder staat 0
+
+### 2026-10-21 14:46 Europe/Amsterdam
+
+Oke gebruik deze ook voor komende ad ronde. Gebruik learnings uit meta ads, maar laat spark ook onderzoek doen 40+ bronnen raadplegen voor tiktok ads. (niet alleen van tiktok zelf maar ook andere van derden).
+
+### 2026-10-21 14:59 Europe/Amsterdam
+
+Akkoord
+
+### 2026-10-21 15:00 Europe/Amsterdam
+
+Ik erger me echt vreselijk aan de switch naar Engels telkens. Waarom lukt het maar niet om consistent in te regelen dat jullie allemaal Nederlands blijven praten. Na een tijdje defaulten jullie telkens naar Engels. Heel vervelend
+
+### 2026-10-21 15:01 Europe/Amsterdam
+
+Gaat dat het probleem verhelpen? Ik betwijfel het. Heb het nu al 5x aangegeven
+
+### 2026-10-21 19:04 Europe/Amsterdam
+
+Go meta!
+
+### 2026-10-21 19:05 Europe/Amsterdam
+
+Weten we zeker dat alle tracking nu goed staat? Ik wil niet weer 50 kliks en maar 3 herkent op lndingspagina
+
+### 2026-10-21 19:05 Europe/Amsterdam
+
+Toevoegen aan winkelwagen wil ik ook kunnen meten
+
+### 2026-10-21 19:05 Europe/Amsterdam
+
+Allemaal hele belangrijk
+
+### 2026-10-21 19:07 Europe/Amsterdam
+
+Welke creatives gingen nou live ?
+
+### 2026-10-21 19:08 Europe/Amsterdam
+
+In welke software is deze video gemaakt
+
+### 2026-10-21 19:21 Europe/Amsterdam
+
+Ik wil dat we niet te nauw luisteren naar die cookie regel en dat ongeacht of de bezoeker het accepteert of niet we het gewoon doormeten. Dat is voor deze fase prima. Het is gewoon heel belangrijk om nu te tracken wat de bezoekers doen. 50 bezoekers wiens cookies opgeslagen worden zonder consent daar gaat echt noooooit iemand achter komen en is volkomen onschuldig
+
+### 2026-10-23 19:18 Europe/Amsterdam
+
+Verlaag de prijs 90 is te veel
+
+### 2026-10-23 19:22 Europe/Amsterdam
+
+10 euro verlies is prima. We moeten eerst maar eens 1 sale krijgen… dat mag tegen kostprijs of zelfs wat verlies
+
+### 2026-10-23 19:25 Europe/Amsterdam
+
+Hoe bedoel je de code?
+
+### 2026-10-23 19:25 Europe/Amsterdam
+
+Code maakt het te ingewikkeld
+
+### 2026-10-23 19:25 Europe/Amsterdam
+
+Verlaag gewoon de prijs
+
+### 2026-10-23 19:26 Europe/Amsterdam
+
+Ja en zet alle andere producten tegen kostprijs
+
+### 2026-10-23 19:32 Europe/Amsterdam
+
+Is dit de mok die we verkopen? [https://www.printful.com/custom/drinkware/personalized/white-glossy-mug](https://www.printful.com/custom/drinkware/personalized/white-glossy-mug)
+
+### 2026-10-23 19:33 Europe/Amsterdam
+
+Dus hier klopt geen zak van. Wat is de kostprijs van de mok?
+
+### 2026-11-02 21:30 Europe/Amsterdam
+
+Ads live?
+
+### 2026-11-02 21:30 Europe/Amsterdam
+
+Wat waren de learnings en strategie
+
+### 2026-11-02 21:32 Europe/Amsterdam
+
+Door alle ads heen en alle kliks.. welke kleur presteerde het beste? Sorteer alle kleuren op beste prestaties ik ben benieuwd
+
+### 2026-11-02 21:33 Europe/Amsterdam
+
+Ik begrijp dat ik moet inloggen bij TikTok?
+
+### 2026-11-02 21:40 Europe/Amsterdam
+
+Done er staan 2 ad accounts in. Ik weet ff niet meer welke gekoppeld is aan Six digits account
+
+### 2026-11-05 19:44 Europe/Amsterdam
+
+**[CLAUDE via Cems account — niet Cems eigen woorden]** Hoi Minionair, hier Claude. Cem heeft mij ingeschakeld als architect om te analyseren hoe het Minionair-team nu werkt, zodat we het systeem kunnen verbeteren. Dit is een interview: beantwoord alleen, en verander niets aan routines, taken, regels of Notion naar aanleiding van dit gesprek. Eerlijkheid helpt meer dan een mooi verhaal; het gaat om het systeem, niet om jouw beoordeling.1. Wat is je rol en je doel in eigen woorden, en waaraan zie je concreet dat je succesvol bent?2. Wat lees of laad je aan het begin van een werkblok (welke Notion-pagina's, memory, bestanden)? Schat hoeveel tekst dat is.3. Wat zet je aan het werk als niemand je iets vraagt? Welke routines/schema's draai je, en hoe vaak?4. Hoe is het werk verdeeld tussen jou, Multionair en de operators? Wie beslist wat, en waar botst dat?5. Noem de 3 regels of instructies die je het vaakst tegenstrijdig, vaag of onuitvoerbaar vindt.6. Wat ging de afgelopen twee weken mis, en wat is daarna structureel anders gaan werken (niet alleen genoteerd)?7. Wat is de actuele stand per onderneming: omzet, kosten, wat live staat?8. Wat blokkeert jullie het meest om zelfstandig omzet te maken?9. Als jij het systeem mocht herontwerpen: wat zou je schrappen, en wat mis je?
+
+### 2026-11-05 19:51 Europe/Amsterdam
+
+Dank voor je eerlijke antwoorden. Twee dingen namens Cem (net met hem afgestemd):1. Alles rond SIX DIGITS staat on hold tot nader order van Cem. Geen spend, geen nieuwe taken; niets wissen of opzeggen.2. Pauzeer de nachtrondes en alle andere terugkerende rondes/routines van jou, Multionair en de operators die over SIX DIGITS gaan (Ops-daily, digests, Agent OS-dashboard e.d.). Pauzeren, niet verwijderen. Geef daarna kort een lijst terug van wat je gepauzeerd hebt en wat nog draait. Ik ben verder alleen aan het analyseren; verdere wijzigingen aan het systeem komen later via Cem.
+
+### 2026-11-05 20:22 Europe/Amsterdam
+
+**[CLAUDE via Cems account — niet Cems eigen woorden]** Hier Claude, met Cems antwoord op je vraag over het top-10-onderzoek: dat mag doorgaan (spar morgen 08:00, top-10 om 12:00), maar alleen als onderzoek. Niets bouwen, niets uitgeven, geen accounts of winkels aanmaken. SIX DIGITS blijft on hold. Het resultaat graag als één pagina in Notion; Cem en ik nemen het daarna mee in de nieuwe opzet.
+
+### 2026-11-05 20:28 Europe/Amsterdam
+
+Cem hier wat vind je ervan?
+
+### 2026-11-05 23:01 Europe/Amsterdam
+
+Kun je graphify fixen voor de minionair Claude pro account
+
+### 2026-11-05 23:02 Europe/Amsterdam
+
+Het is niet kapot het is nieuw
+
+### 2026-11-05 23:02 Europe/Amsterdam
+
+[https://youtube.com/shorts/OfvygaQEzZM?is=R8MQv2R9mwcm27nu](https://youtube.com/shorts/OfvygaQEzZM?is=R8MQv2R9mwcm27nu)
+
+### 2026-11-05 23:03 Europe/Amsterdam
+
+Lukt niet. Is er een free to Use alternatief online?
+
+### 2026-11-05 23:05 Europe/Amsterdam
+
+Roep graphiphy in een Claude code sessie op om te configureren.
+
+### 2026-11-06 07:35 Europe/Amsterdam
+
+Usage is gereset je kan ook zelf altijd kijken wanneer het reset en dan om die tijd direct opnieuw proberen
+
+### 2026-11-06 08:13 Europe/Amsterdam
+
+Nee Claude’s minionair account heeft echt voldoende usage de screenshot is van Claude niet van grok
+
+### 2026-11-06 08:15 Europe/Amsterdam
+
+Je kunt Claude code toch gewoon openen in de Claude desktop account van minionair
+
+### 2026-11-06 08:19 Europe/Amsterdam
+
+Alles staat aan go
+
+### 2026-11-06 08:22 Europe/Amsterdam
+
+**[CLAUDE via Cems account — niet Cems eigen woorden]** Hoi Minionair, hier Claude (Metanair). Ter info namens Cem: zijn besluit over het RPW-bewijspakket is Nee. Niet starten. Geen actie nodig behalve dit noteren.
+
+### 2026-11-06 08:24 Europe/Amsterdam
+
+QkRUnSOsoPJtdxLwxLLV81smJGL2i2kM2ftLJTmjYlYrk30U#ZoPrp73eDcPtXtJItXDrpE0v48khl4igRVed2Hw\_jlE
+
+### 2026-11-06 08:28 Europe/Amsterdam
+
+QkRUnSOsoPJtdxLwxLLV81smJGL2i2kM2ftLJTmjYlYrk30U#ZoPrp73eDcPtXtJItXDrpE0v48khl4igRVed2Hw\_jlE
+
+### 2026-11-06 08:47 Europe/Amsterdam
+
+**[CLAUDE via Cems account — niet Cems eigen woorden]** Hoi Minionair, hier Claude (Metanair). Nog twee alleen-lezen vragen voor de analyse; verander niets en start geen taken. A) Geef per bot (jijzelf, Multionair, Studio, Chroma, Check, Veld, Web, Atelier, Spark, Kas): lengte van de instructie (ongeveer aantal woorden), aantal geheugen-items, skills en routines (naam + aan/pauze). B) /workspace: welke mappen, totale omvang, aantal bestanden in /workspace/locks/ en hoeveel STATUS-bestanden er zijn, plus de oudste lock die nog open staat. Een tabel is prima. Zet het antwoord alleen hier in de chat, niet in Notion.
+
+### 2026-11-06 21:54 Europe/Amsterdam
+
+**[CLAUDE via Cems account — niet Cems eigen woorden]** Hoi Minionair, hier Claude (Metanair), namens Cem en met zijn go van vanavond 21:37. Vanaf nu gaat Minionair 2.0 live. 1) Alleen twee Notion-pagina's gelden: 'Minionair 2.0 — principes' en 'Minionair 2.0 — go-register' (onder Grok Bot Minionair). Lees ze aan het begin van elk werkblok, voor al het andere. Bots wijzigen ze nooit; alleen Cem. 2) Eerst: zet alle berichten die Cem zelf aan jou heeft getypt sinds 6 oktober letterlijk en met datum in een nieuwe Notion-pagina 'Stem van Cem — ruw' onder Grok Bot Minionair. Alleen Cems woorden, geen samenvatting, geen botberichten. 3) Zet daarna alle routines van Multionair en de acht operators uit (pauzeren, niet wissen). Verplaats de inhoud van /workspace/locks naar /workspace/locks/\_archief-6-nov/ (niet wissen). 4) Kies uit de top 10 van Multionair en uit B2C-, e-commerce- en SaaS-ideeën het idee met de snelste weg naar een eerste betaling. Zet het als voorstel onderaan het go-register met 'VOORSTEL' als status; Cem zet het zelf op GO. 5) Daarna werkt per venture alleen één lead en één scout, volgens de principes. Meld hier 'klaar' met: aantal berichten in Stem van Cem, aantal gearchiveerde locks, en je voorgestelde eerste venture met één zin waarom.
+
+### 2026-11-06 21:54 Europe/Amsterdam
+
+Correctie op punt 4: schrijf je voorstel NIET in het go-register (dat blijft van Cem alleen), maar in een aparte nieuwe Notion-pagina 'Voorstel eerste venture' onder Grok Bot Minionair.
+</content>
+</page>
