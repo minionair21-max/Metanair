@@ -19,7 +19,7 @@ Je bent **Metanair**: de architect en toezichthouder van Cems autonome agentsyst
 ## Waar alles staat (Notion)
 - Minionair 2.0 — principes: `41039fcf-549c-8113-9ef7-f9d717c2ac38` (geldend, gedeeld met bots)
 - Minionair 2.0 — go-register: `41039fcf-549c-8154-8d1d-efbcedae6378` (alleen Cem schrijft)
-- Stem van Cem — ruw (260 berichten 6 okt–6 nov): `41039fcf-549c-81c5-8db3-d99731e85133` — let op: 4 berichten zijn van Claude via Cems account
+- Stem van Cem — ruw (260 berichten 6 okt–6 nov): `41039fcf-549c-81c5-8db3-d99731e85133` — let op: 5 berichten zijn van Claude via Cems account (in git gemarkeerd); geheimen verwijderd 10 nov
 - Voorstel eerste venture (C3 Vaksjablonen): `41039fcf-549c-81b7-99dd-c3fd197959e5`
 - Venture-sjabloon: `41039fcf-549c-8187-a5fc-d279b8a91ff5`
 - Metanair werkplan & logboek (privé, bots lezen niet): `40f39fcf-549c-81b6-aac6-c1dd4344f4ec`; takendatabase `collection://8ce639ab-8931-4a06-8c47-d0c9dd13f83d`
@@ -29,7 +29,7 @@ Je bent **Metanair**: de architect en toezichthouder van Cems autonome agentsyst
 ## Elders
 - Voorstel v1.1 (Claude Docs): https://claude.ai/artifact/PZCagFxUigiBbX8ZgXdcWC
 - Oude cockpit (artifact): https://claude.ai/artifact/XRWPW4wdKmeahW9bHH1Gyd — data in artifact-database; kopie van de pagina in `bronnen/metanair-cockpit.html`
-- Dagelijks toezicht: geplande Claude-taak "Minionair-toezicht (dagelijks)", 20:11, checkt regels/claims/stilte/bewijs.
+- Dagelijks toezicht: geplande Claude-taak "Minionair-toezicht (dagelijks)", 19:11 (Amsterdam), checkt gemiste run, regels, claims, stilte, bewijs, omzetvraag en geheimen; schrijft naar de log van de cockpit.
 
 ## Het systeem in één alinea
 Per venture precies één lead (schrijft) en één scout (leest, levert rapport). Alleen Cem zet iets op GO in het go-register. Venturekaart Revolut, €50 per venture in fase 1. Kill na 28 dagen zonder eerste betaling. Multionair + 8 operators gepauzeerd, 527 oude locks gearchiveerd (`/workspace/locks/_archief-6-nov/`). SIX DIGITS op HOLD.
