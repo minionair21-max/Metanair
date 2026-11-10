@@ -43,3 +43,22 @@
 3. **C3 met presale eerst.** Een GO voor 7 dagen presale-test: lead en scout (nieuwe bots) benaderen hoveniers met een betaallink vóór de bouw. Ook de noodstop hoort hierbij: mag Metanair een venture op HOLD zetten (alleen stoppen, nooit starten)? *(Voorstel: ja op beide.)*
 
 Open, door Cem af te ronden: het Top-10-onderzoek staat op GO, maar Multionair is gepauzeerd. Zet die regel op "vervallen" of wijs het werk toe.
+
+---
+
+## Correctie 10 nov — review was gebaseerd op een verouderde kopie
+De olifant gebruikte `bronnen/principes.md` uit de overdracht (v1). In Notion geldt **v1.1**, en de cockpit had al een checklist van 12 punten uit de red-team-ronde (kaarten t41–t52). Daardoor waren meerdere bevindingen al opgelost:
+
+| Bevinding | Stand 10 nov |
+|---|---|
+| A Claude via Cems account | **Nog open.** Staat al als voorstel in de cockpit (t41 eigen Notion-identiteit voor bots, t42 go met weekcode). Nu als beslissing aan Cem voorgelegd. |
+| B Toezicht faalt stil | **Deels opgelost**: een push naar Cems telefoon, een 48-uur-alarm en een log in de cockpit (draait sinds 7 nov; 8 nov 2 rode vlaggen). Toegevoegd: een gemiste run wordt bij de volgende run rood gemeld, plus de omzetvraag. |
+| C 28-dagenklok zonder start | **Nog open**: principe 5 zegt "na start", maar niet wat de start is. Ligt nu bij Cem, samen met de tussenpoorten. |
+| D €30-regel stapelt | **Opgelost** in v1.1: principe 6 werkt met de limiet van een virtuele kaart (t43). |
+| E Twee plekken met status | **Opgelost in de praktijk**: de cockpit toont een kopie die Claude bijwerkt vanuit Notion, en besluiten gaan terug naar Notion. |
+| F Niemand eigenaar van verkoop | **Deels opgelost**: verkoopkanaal per venture-type (t50). Tussenpoorten op dag 3, 7 en 14 ontbreken nog; voorgelegd aan Cem. |
+| G Bewijsveld | **Opgelost**: principe 10 ("af" alleen met extern bewijs). |
+| H Gepauzeerde bots hergebruiken | Advies, meegenomen in de beslissing over de C3-presale. |
+| I C3 zonder bewijs van vraag | Toegevoegd aan de bestaande beslissing over C3 (t53). |
+
+Ook gevonden: het toezicht van 8 nov meldde een token in "Stem van Cem — ruw". Op 7 nov gemist; op 10 nov verwijderd uit git (nieuwe commit) en uit Notion, samen met het IBAN, het wachtwoord en de inlogcode.
